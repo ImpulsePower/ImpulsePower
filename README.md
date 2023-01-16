@@ -1,7 +1,7 @@
 Hi there 👋
 
 ![Alt Text](gifs.gif)
-![](gi.png)
+<!-- ![](gi.png) -->
 
 <!-- linkedin -->
 <!-- проекты -->
