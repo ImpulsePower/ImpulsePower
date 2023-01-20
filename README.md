@@ -1,5 +1,5 @@
 <!-- Hi there 👋 -->
-![](gifus.gif)
+![](mcu.gif)
 <!-- ![](1.png) -->
 
 <!-- <div id="badges">
